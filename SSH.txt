@@ -1,0 +1,9 @@
+git config --global user.name "zhoukai163"
+git config --global user.email "981258915@qq.com"
+ssh-keygen -t rsa -C "981258915@qq.com"
+
+
+C:\Users\98125\.ssh
+
+
+git remote add origin git@github.com:zhoukai163/GitTest.git
